@@ -87,8 +87,8 @@ int main()
     bubblesortArray();
     display();
 
-    system("pause");
-    return 0;
+    system("pause")
+        return 0
 }
 
 
